@@ -1,0 +1,7 @@
+{
+  "name": "Face Unmasker AI",
+  "description": "Upload or capture an image of a person wearing a mask, crop their face, and use AI to reveal their actual face by removing the mask.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
